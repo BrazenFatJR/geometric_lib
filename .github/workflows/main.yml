@@ -27,7 +27,7 @@ jobs:
         run: |
           echo "ФИО: $FULL_NAME"
           echo "Группа: $GROUP_NUMBER"
-          echo "GitHub Ник: ${{ github.actor }}"
+          echo "GitHub Ник: BrazenFatJR"
 
       - name: Set up Python 3.13
         uses: actions/setup-python@v4
